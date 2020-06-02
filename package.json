@@ -1,0 +1,19 @@
+{
+  "name": "dirty_pixel_cleaner",
+  "version": "0.0.1",
+  "description": "A pixel cleaner",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varcessaro/dirty_pixel_cleaner.git"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/varcessaro/dirty_pixel_cleaner/issues"
+  },
+  "homepage": "https://github.com/varcessaro/dirty_pixel_cleaner#readme"
+}
